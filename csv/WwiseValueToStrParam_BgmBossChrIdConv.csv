@@ -1,22 +1,22 @@
 ID,Name,disableParam_NT,disableParamReserve1,disableParamReserve2,ParamStr,
-203000,,1,0,[0|0|0],c2030
-203001,,1,0,[0|0|0],c2030_B
-211000,,1,0,[0|0|0],c2110
-212000,,1,0,[0|0|0],c2120
-213000,,0,0,[0|0|0],c2130_A
-213001,,1,0,[0|0|0],c2130_B
-219000,,1,0,[0|0|0],c2190
-356000,,1,0,[0|0|0],c3560
-451000,,1,0,[0|0|0],c4510
-452000,,1,0,[0|0|0],c4520
-467000,,1,0,[0|0|0],c4670
-471000,,1,0,[0|0|0],c4710
-472000,,1,0,[0|0|0],c4720
-472001,,1,0,[0|0|0],c4720_B
-473000,,1,0,[0|0|0],c4730
-475000,,1,0,[0|0|0],c4750
-476000,,1,0,[0|0|0],c4760
-480000,,1,0,[0|0|0],c4800
+203000,Rennala- Queen of the Full Moon,1,0,[0|0|0],c2030
+203001,Rennala- Queen of the Full Moon,1,0,[0|0|0],c2030_B
+211000,Beast Clergyman,1,0,[0|0|0],c2110
+212000,Malenia- Blade of Miquella,1,0,[0|0|0],c2120
+213000,Margit- the Fell Omen,0,0,[0|0|0],c2130_A
+213001,Morgott- the Omen King,1,0,[0|0|0],c2130_B
+219000,The Final Battle,1,0,[0|0|0],c2190
+356000,Godskin Apostles,1,0,[0|0|0],c3560
+451000,Lichdragon Fortissax,1,0,[0|0|0],c4510
+452000,Dragonlord Placidusax,1,0,[0|0|0],c4520
+467000,Regal Ancestor Spirit,1,0,[0|0|0],c4670
+471000,God-Devouring Serpent,1,0,[0|0|0],c4710
+472000,Godfrey- The First Elden Lord,1,0,[0|0|0],c4720
+472001,Lord's Apparition,1,0,[0|0|0],c4720_B
+473000,Starscourge Radahn,1,0,[0|0|0],c4730
+475000,Godrick the Grafted,1,0,[0|0|0],c4750
+476000,Fire Giant,1,0,[0|0|0],c4760
+480000,Mohg- Lord of Blood,1,0,[0|0|0],c4800
 502000,,1,0,[0|0|0],c5020
 503000,,1,0,[0|0|0],c5030
 505000,,1,0,[0|0|0],c5050
@@ -27,33 +27,33 @@ ID,Name,disableParam_NT,disableParamReserve1,disableParamReserve2,ParamStr,
 522000,,1,0,[0|0|0],c5220
 523000,,1,0,[0|0|0],c5230
 530000,,1,0,[0|0|0],c5300
-920100,,1,0,[0|0|0],MidBoss_DeathGenus
-920200,,0,0,[0|0|0],MidBoss_TreeKnights
-920300,,0,0,[0|0|0],MidBoss_Wyvern
-920400,,1,0,[0|0|0],MidBoss_UgRemains
-920500,,1,0,[0|0|0],MidBoss_CarianRoyal
-920600,,1,0,[0|0|0],MidBoss_TreeDaemon
-920700,,1,0,[0|0|0],MidBoss_Aster
-920800,,1,0,[0|0|0],MidBoss_MeteoricIronBeast
-920900,,0,0,[0|0|0],MidBoss_BasementRoom
-921000,,1,0,[0|0|0],MidBoss_DarkKnights
-921100,,1,0,[0|0|0],MidBoss_NewCircle
-921200,,1,0,[0|0|0],MidBoss_Creepy
-921300,,1,0,[0|0|0],MidBoss_FieldDragon
-921400,,1,0,[0|0|0],MidBoss_Wolf
-921500,,1,0,[0|0|0],MidBoss_BlackSword
-921600,,1,0,[0|0|0],MidBoss_DaemonPhantom
-921700,,1,0,[0|0|0],MidBoss_DeepBlood
-925000,,0,0,[0|0|0],MidBoss_CircleEvent
-930000,,0,0,[0|0|0],MidBoss_Catacombs
-931000,,0,0,[0|0|0],MidBoss_Cave
-932000,,0,0,[0|0|0],MidBoss_Tunnel
+920100,Death's Kindred,1,0,[0|0|0],MidBoss_DeathGenus
+920200,Erdtree Knights,0,0,[0|0|0],MidBoss_TreeKnights
+920300,Dragon,0,0,[0|0|0],MidBoss_Wyvern
+920400,Grave Wardens,1,0,[0|0|0],MidBoss_UgRemains
+920500,Erdtree Knights,1,0,[0|0|0],MidBoss_CarianRoyal
+920600,Erdtree Avatar,1,0,[0|0|0],MidBoss_TreeDaemon
+920700,Astel- Naturalborn of the Void,1,0,[0|0|0],MidBoss_Aster
+920800,Fallingstar Beast,1,0,[0|0|0],MidBoss_MeteoricIronBeast
+920900,Formidable Foe II,0,0,[0|0|0],MidBoss_BasementRoom
+921000,Fallen Knights,1,0,[0|0|0],MidBoss_DarkKnights
+921100,The Immured,1,0,[0|0|0],MidBoss_NewCircle
+921200,The Accursed,1,0,[0|0|0],MidBoss_Creepy
+921300,Formidable Foe II,1,0,[0|0|0],MidBoss_FieldDragon
+921400,Red Wolf of Radagon,1,0,[0|0|0],MidBoss_Wolf
+921500,Black Knives,1,0,[0|0|0],MidBoss_BlackSword
+921600,Omen Illusion,1,0,[0|0|0],MidBoss_DaemonPhantom
+921700,Bloody Fingers,1,0,[0|0|0],MidBoss_DeepBlood
+925000,The Immured,0,0,[0|0|0],MidBoss_CircleEvent
+930000,Grave Wardens,0,0,[0|0|0],MidBoss_Catacombs
+931000,Formidable Foe I,0,0,[0|0|0],MidBoss_Cave
+932000,Grave Wardens,0,0,[0|0|0],MidBoss_Tunnel
 940000,,1,0,[0|0|0],MidBoss_Catacombs_B
 941000,,1,0,[0|0|0],MidBoss_Prison
 942000,,1,0,[0|0|0],MidBoss_Godman
 943000,,1,0,[0|0|0],MidBoss_Melee
 944000,,1,0,[0|0|0],MidBoss_MeleeLast
-950000,,1,0,[0|0|0],MidBoss_Fortress
+950000,Old Warriors,1,0,[0|0|0],MidBoss_Fortress
 10000000,,1,0,[0|0|0],None
 10000001,,1,0,[0|0|0],_BgmSilent
 10000002,,1,0,[0|0|0],c2030
