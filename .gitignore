@@ -1,0 +1,6 @@
+# Smithbox project files
+/.smithbox
+project.json
+
+# Auto-generated backup file
+regulation.bin.prev
