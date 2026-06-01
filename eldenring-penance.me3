@@ -1,0 +1,10 @@
+# Elden Ring Penance Profile
+
+profileVersion = "v1"
+savefile = "EldenRing.penance"
+
+[[supports]]
+game = "eldenring"
+
+[[packages]]
+path = "."
